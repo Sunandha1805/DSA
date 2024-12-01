@@ -1,5 +1,9 @@
 // ************** implementing Queue/Circular-Queue using arr *************
 
+// In circular queue
+// rare = (rare + 1) % maxSize
+// front = (front +1) % maxSize
+
 #include <bits/stdc++.h>
 using namespace std;
 
